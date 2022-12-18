@@ -1,4 +1,4 @@
-# asa55 Azure Active Directory Docs::Managed Identities
+# asa55 Docs as Flashcards::Azure::Active Directory::Managed Identities
 
 ##
 
